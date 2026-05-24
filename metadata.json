@@ -1,0 +1,8 @@
+{
+  "name": "Remix: OEKS",
+  "description": "Bilingual school management prototype app for Omdur English Kindergarten \u0026 Schools (OEKS) in Cairo, Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
